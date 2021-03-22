@@ -4,13 +4,13 @@ description: What is Memoet?
 
 # Introduction
 
-### Rereading notes is inefficient
+### Re-reading notes is inefficient
 
 Rereading your notes over and over again is not efficient, and really not fun. To remember your notes, you have to **retrieve** knowledge from your brain by writing things down, or playing some quizzes.
 
 Memoet helps with your **retrieval process** by providing a quiz form to every notes to gamify your learning.
 
-### Replaying easy games is no fun
+### Re-playing easy games is no fun
 
 Quizzes are entertaining, but to play an easy quiz again and again is no fun at all. You want to play hard quizzes more and easy ones less.
 
@@ -18,7 +18,7 @@ Memoet helps with your **repetition process** by spacing notes using SuperMemo2 
 
 {% page-ref page="reference-guides/supermemo2.md" %}
 
-### Creating notes one by one is slow
+### Creating notes one-by-one is slow
 
 For original content you may want to creating your own quiz one by one. But we can make them better.
 
