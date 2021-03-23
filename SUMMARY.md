@@ -24,5 +24,6 @@
 ---
 
 * [Community decks](https://memoet.com/community)
+* [Memoet blog](https://blog.memoet.com)
 * [GitHub](https://github.com/memoetapp)
 
