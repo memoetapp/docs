@@ -14,13 +14,13 @@ You must sign up first to create your first deck: [https://memoet.com/signup/](h
 
 ### 2. Create a deck
 
-Click **"New deck"** button and input your deck's name. A deck should include notes in the same topic or category
+Click **"New deck"** button and input your deck's name. A deck should include notes in the same topic or category.
 
 ### 3. In the deck, create as many notes as you like
 
-Click **"New note"** button and input your note's content and attached quiz.
+Click **"New note"** button and input your note's content and accompanied quiz.
 
-You can edit all note's content after creating, so don't try to make it perfect on the first time.
+You can edit all the note's content after creating, as well as delete the note if you want.
 
 
 
