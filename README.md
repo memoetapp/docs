@@ -22,11 +22,9 @@ Memoet helps with your **repetition process** by spacing notes using SuperMemo2 
 
 For original content you may want to creating your own quiz one by one. But we can make them better.
 
-Memoet helps with your **input process** by providing REST APIs for most of UI's tasks. Instead of creating a quiz through web UI, developers and hobbyists can talk directly to our server using JSON language.
+Memoet helps with your **input process** by providing batch notes import using CSV files. Now you can create thousands of notes to learn later.
 
-{% page-ref page="reference-guides/restful-api/" %}
-
-### Play some quizzes!
+For developers and hobbyists, we do provide RESTful APIs for decks and notes so you can talk directly to our server using JSON language.
 
 
 

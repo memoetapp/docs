@@ -6,6 +6,7 @@
 ## Tutorials
 
 * [Create your first deck](tutorials/create-your-first-deck.md)
+* [Batch import notes using CSV](tutorials/batch-import-notes-using-csv.md)
 * [Practice your deck](tutorials/practice-your-deck.md)
 
 ## How-to guides
