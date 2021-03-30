@@ -16,8 +16,6 @@ Quizzes are entertaining, but to play an easy quiz again and again is no fun at 
 
 Memoet helps with your **repetition process** by spacing notes using SuperMemo2 algorithm to make hard notes appear more frequent and easy notes less so.
 
-{% page-ref page="reference-guides/supermemo2.md" %}
-
 ### Creating notes one-by-one is slow
 
 For original content you may want to creating your own quiz one by one. But we can make them better.
