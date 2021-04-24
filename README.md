@@ -18,7 +18,7 @@ Memoet helps with your **repetition process** by spacing notes using SuperMemo2 
 
 ### Creating notes one-by-one is slow
 
-For original content you may want to creating your own quiz one by one. But we can make them better.
+For original content you may want to creating your own quiz one by one. For the rest, it should be way more easier.
 
 Memoet helps with your **input process** by providing batch notes import using CSV files. Now you can create thousands of notes to learn later.
 
