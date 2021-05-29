@@ -4,9 +4,15 @@ description: Frequently Asked Questions
 
 # FAQ
 
+### How do you pronounce "Memoet"?
+
+/ˈmemōət/
+
+It is not a real word though.
+
 ### Is Memoet open source?
 
-Yes it is, you can find the source here: [https://github.com/memoetapp/memoet](https://github.com/memoetapp/memoet). You can host the web yourself if you want.
+Yes, it is, you can find the source here: [https://github.com/memoetapp/memoet](https://github.com/memoetapp/memoet). You can host the web yourself if you want.
 
 ### What version of SuperMemo algorithm do you use in Memoet?
 
