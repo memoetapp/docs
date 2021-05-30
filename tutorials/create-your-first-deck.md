@@ -9,7 +9,7 @@ description: A deck is a collection of notes
 You must sign up first to create your first deck: [https://memoet.com/signup/](https://memoet.com/signup/).
 
 {% hint style="warning" %}
- You can't change email address after signing up for now.
+ You can't change your email address after signing up for now. We use that email to recover your password.
 {% endhint %}
 
 ### 2. Create a deck
@@ -17,7 +17,7 @@ You must sign up first to create your first deck: [https://memoet.com/signup/](h
 Click **"New deck"** button and input your deck's name. A deck should include notes in the same topic or category.
 
 {% hint style="info" %}
-A deck is a collection of notes. You can only play with notes within a deck for now. Cross-decks practice are coming soon.
+A deck is a collection of notes. A special deck called "**Today**" will always appear on your home page contains all notes in a set of decks to do cross-deck learning.
 {% endhint %}
 
 ### 3. In the deck, create as many notes as you like
@@ -25,6 +25,10 @@ A deck is a collection of notes. You can only play with notes within a deck for 
 Click **"New note"** button and input your note's content and accompanied quiz.
 
 You can edit all the note's content after creating, as well as delete the note if you want.
+
+{% hint style="info" %}
+You can also [batch import ](batch-import-notes-using-csv.md)notes using CSV files.
+{% endhint %}
 
 
 
