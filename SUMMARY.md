@@ -28,4 +28,5 @@
 * [Community decks](https://memoet.com/community)
 * [Memoet blog](https://blog.memoet.com)
 * [Memoet GitHub](https://github.com/memoetapp)
+* [Memoet Reddit](https://www.reddit.com/r/memoet/)
 
