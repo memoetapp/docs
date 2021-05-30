@@ -8,7 +8,7 @@ description: What is Memoet?
 
 Rereading your notes over and over again is not efficient, and really not fun. To remember your notes, you have to **retrieve** knowledge from your brain by writing things down, or playing some quizzes.
 
-Memoet helps with your **retrieval process** by providing a quiz form to every note to gamify your learning. We still keep a flashcard mode for the regular.
+Memoet helps with your **retrieval process** by providing a quiz form to every note to gamify your learning. We still keep a flashcard mode for the regular though.
 
 ### Re-playing easy games are no fun
 
