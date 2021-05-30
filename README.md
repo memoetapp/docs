@@ -1,5 +1,5 @@
 ---
-description: What is Memoet?
+description: What the heck is Memoet? Why do I need another memorization tool?
 ---
 
 # Introduction
