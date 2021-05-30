@@ -22,9 +22,10 @@
   * [Deck API](reference-guides/restful-api/deck-api.md)
   * [Note API](reference-guides/restful-api/api.md)
 
----
+## External links
 
+* [Memoet homepage](https://memoet.com)
 * [Community decks](https://memoet.com/community)
 * [Memoet blog](https://blog.memoet.com)
-* [GitHub](https://github.com/memoetapp)
+* [Memoet GitHub](https://github.com/memoetapp)
 
