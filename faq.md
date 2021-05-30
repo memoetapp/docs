@@ -6,7 +6,9 @@ description: Frequently Asked Questions
 
 ### How do you pronounce "Memoet"?
 
-/ˈmemōət/
+BrE: /ˈmeməʊɪt/
+
+NAmE: /ˈmeməʊət/
 
 It is not a real word though.
 
