@@ -14,11 +14,13 @@ It is not a real word though.
 
 ### Is Memoet open source?
 
-Yes, it is, you can find the source here: [https://github.com/memoetapp/memoet](https://github.com/memoetapp/memoet). You can host the web yourself if you want.
+Yes, it is, you can find the source here: [https://github.com/memoetapp/memoet](https://github.com/memoetapp/memoet).
+
+You can host Memoet in your own server, and don't forget to star it ⭐️
 
 ### What version of SuperMemo algorithm do you use in Memoet?
 
-We use SuperMemo2, or Algorithm SM-2, \(C\) Copyright SuperMemo World, 1991.
+We use [SuperMemo2](https://www.supermemo.com/archives1990-2015/english/ol/sm2).
 
 ### Can I try Memoet without sign up?
 
