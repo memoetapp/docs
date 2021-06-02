@@ -13,6 +13,7 @@
 
 * [Make a deck public](how-to-guides/make-a-deck-public.md)
 * [Copy a public deck to your account](how-to-guides/copy-a-public-deck-to-your-account.md)
+* [Python script to generate CSV file for importing notes](how-to-guides/python-script-to-generate-csv-file-for-importing-notes.md)
 * [Batch import notes using API](how-to-guides/batch-import-notes-using-api.md)
 
 ## Reference guides

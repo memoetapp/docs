@@ -2,7 +2,7 @@
 
 To be written.
 
-In the mean time, play around with our API:
+In the meantime, play around with our API:
 
 {% page-ref page="../reference-guides/restful-api/" %}
 
