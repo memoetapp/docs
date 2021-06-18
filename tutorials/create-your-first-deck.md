@@ -17,7 +17,7 @@ You must sign up first to create your first deck: [https://memoet.com/signup/](h
 Click **"New deck"** button and input your deck's name. A deck should include notes in the same topic or category.
 
 {% hint style="info" %}
-A deck is a collection of notes. A special deck called "**Today**" will always appear on your home page contains all notes in a set of decks to do cross-deck learning.
+A deck is a collection of notes. A special deck called "**Today**" will always appear on your home page, which contains all notes in a set of decks to do cross-deck learning.
 {% endhint %}
 
 ### 3. In the deck, create as many notes as you like
