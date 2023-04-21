@@ -25,10 +25,5 @@
 
 ## External links
 
-* [Memoet homepage](https://memoet.com)
-* [Community decks](https://memoet.com/community)
 * [Memoet discussion](https://github.com/memoetapp/memoet/discussions)
 * [Memoet blog](https://blog.memoet.com)
-* [Memoet GitHub](https://github.com/memoetapp)
-* [Memoet Reddit](https://www.reddit.com/r/memoet/)
-

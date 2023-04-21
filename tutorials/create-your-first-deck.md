@@ -6,10 +6,10 @@ description: A deck is a collection of notes
 
 ### 1. First step
 
-You must sign up first to create your first deck: [https://memoet.com/signup/](https://memoet.com/signup/).
+You must sign up first to create your first deck.
 
 {% hint style="warning" %}
- You can't change your email address after signing up for now. We use that email to recover your password.
+You can't change your email address after signing up for now. We use that email to recover your password.
 {% endhint %}
 
 ### 2. Create a deck
@@ -29,8 +29,3 @@ You can edit all the note's content after creating, as well as delete the note i
 {% hint style="info" %}
 You can also [batch import ](batch-import-notes-using-csv.md)notes using CSV files.
 {% endhint %}
-
-
-
-
-

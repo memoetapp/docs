@@ -24,17 +24,6 @@ We use [SuperMemo2](https://www.supermemo.com/archives1990-2015/english/ol/sm2).
 
 You can customize all of its parameters on the settings page or just get on with the defaults.
 
-### Can I try Memoet without sign up?
-
-Sure. Go to: [https://memoet.com/community](https://memoet.com/community) and play around.
-
 ### Does Memoet have mobile apps?
 
 No. Not at the moment.
-
-### How to contact Memoet team?
-
-Just drop us an email at: [team@memoet.com](mailto:team@memoet.com).
-
-
-
