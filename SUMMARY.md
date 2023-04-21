@@ -26,4 +26,3 @@
 ## External links
 
 * [Memoet discussion](https://github.com/memoetapp/memoet/discussions)
-* [Memoet blog](https://blog.memoet.com)
